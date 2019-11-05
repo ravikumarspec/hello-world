@@ -6,3 +6,4 @@ Car
 
 Train
 Ship
+Air
