@@ -2,7 +2,6 @@ This is sample learning for GithUb
 
 Bus
 
-Car
 
 Train
 Ship
